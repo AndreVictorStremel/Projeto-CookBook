@@ -1,0 +1,22 @@
+# Pasta do Ambiente Virtual do Python
+backend/venv/
+
+# Pasta de pacotes do Node.js
+frontend/node_modules/
+
+# Arquivos de "segredos" (SENHAS!)
+# Isso é CRUCIAL!
+backend/.env
+frontend/.env
+*.env
+
+# Cache do Python
+backend/__pycache__/
+*.pyc
+
+# Cache do Vite (frontend)
+frontend/dist/
+frontend/.vite/
+
+# Arquivos de configuração do VS Code
+.vscode/
