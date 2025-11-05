@@ -36,8 +36,8 @@ Projeto de portfólio que implementa um CRUD (Create, Read, Update, Delete) comp
 ### 1. Backend ###
 
 # Clone o repositório
-git clone [https://github.com/SeuUsuario/cookbook-fullstack.git](https://github.com/SeuUsuario/cookbook-fullstack.git)
-cd cookbook-fullstack/backend
+git clone [https://github.com/AndreVictorStremel/Projeto-CookBook.git]
+cd CookBook/backend
 
 # Crie o ambiente virtual
 python -m venv venv
@@ -61,7 +61,7 @@ O backend é uma API RESTful construída com FastAPI, expondo os seguintes endpo
 ### 2. Frontend ###
 
 # Em um novo terminal, vá para a pasta frontend
-cd cookbook-fullstack/frontend
+cd CookBook/frontend
 
 # Instale as dependências
 npm install
